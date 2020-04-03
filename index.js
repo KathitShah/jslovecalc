@@ -19,7 +19,7 @@ function myFunction() {
       document.getElementById("hide").style.display = "none";
     }
     else {
-      y.innerHTML = "Hi " + you + ", you really love " + crush + ", so you should seel your love with a kiss because your love score is " + x + "%";
+      y.innerHTML = "Hi " + you + ", you really love " + crush + ", so you should seal your love with a kiss because your love score is " + x + "%";
       document.getElementById("p2").style.display = "inline";
       document.getElementById("hide").style.display = "none";
     }
